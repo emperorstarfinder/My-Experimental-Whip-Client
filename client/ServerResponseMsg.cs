@@ -4,7 +4,7 @@ using System.Text;
 using System.Net.Sockets;
 
 
-namespace Whip.Client
+namespace Enhanced.Whip.Client
 {
     /// <summary>
     /// The server's response to a request

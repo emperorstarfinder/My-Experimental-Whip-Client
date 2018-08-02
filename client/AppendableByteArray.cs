@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Net.Sockets;
 
-namespace Whip.Client
+namespace Enhanced.Whip.Client
 {
     /// <summary>
     /// Holds a fixed sized array and keeps tract of an insert position.  Class created to prevent

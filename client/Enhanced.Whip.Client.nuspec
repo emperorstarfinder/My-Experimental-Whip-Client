@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Whip.Client</id>
+    <id>Enhanced.Whip.Client</id>
     <version>$version$</version>
     <title>WHIP Client for .NET</title>
     <authors>David Daeschler</authors>

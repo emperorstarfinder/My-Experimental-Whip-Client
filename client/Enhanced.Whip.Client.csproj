@@ -8,8 +8,8 @@
     <ProjectGuid>{D77BEB25-D3D4-4EC8-B00F-C1A9EA9F1EE1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Whip.Client</RootNamespace>
-    <AssemblyName>Whip.Client</AssemblyName>
+    <RootNamespace>Enhanced.Whip.Client</RootNamespace>
+    <AssemblyName>Enhanced.Whip.Client</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <FileUpgradeFlags>

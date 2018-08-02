@@ -44,6 +44,6 @@ build:
 test: off
 
 artifacts:
-- path: client\bin\$(configuration)\Whip.Client.dll
-  name: Whip.Client
+- path: client\bin\$(configuration)\Enhanced.Whip.Client.dll
+  name: Enhanced.Whip.Client
   type: zip

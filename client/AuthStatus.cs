@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Net.Sockets;
 
-namespace Whip.Client
+namespace Enhanced.Whip.Client
 {
     class AuthStatus
     {

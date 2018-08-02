@@ -4,7 +4,7 @@ using System.Text;
 using System.Security.Cryptography;
 using System.Net.Sockets;
 
-namespace Whip.Client
+namespace Enhanced.Whip.Client
 {
     /// <summary>
     /// Response to an authentication challenge from the server

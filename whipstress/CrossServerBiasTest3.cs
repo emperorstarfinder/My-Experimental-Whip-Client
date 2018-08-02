@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Security.Cryptography;
-using Whip.Client;
+using Enhanced.Whip.Client;
 
 namespace whipstress
 {

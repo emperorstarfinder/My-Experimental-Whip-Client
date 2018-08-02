@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Whip.Client
+namespace Enhanced.Whip.Client
 {
     /// <summary>
     /// An asset sent from the asset server

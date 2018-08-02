@@ -4,7 +4,7 @@ using System.Text;
 using System.Net.Sockets;
 using System.Threading;
 
-namespace Whip.Client
+namespace Enhanced.Whip.Client
 {
     public delegate void AsyncAssetCallback(Asset asset, AssetServerError error);
 

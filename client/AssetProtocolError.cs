@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Whip.Client
+namespace Enhanced.Whip.Client
 {
     public class AssetProtocolError : Exception
     {

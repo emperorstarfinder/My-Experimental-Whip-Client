@@ -86,9 +86,9 @@
     <Compile Include="ThreadTest.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\client\Whip.Client.csproj">
+    <ProjectReference Include="..\client\Enhanced.Whip.Client.csproj">
       <Project>{D77BEB25-D3D4-4EC8-B00F-C1A9EA9F1EE1}</Project>
-      <Name>Whip.Client</Name>
+      <Name>Enhanced.Whip.Client</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

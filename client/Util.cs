@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Net;
 
-namespace Whip.Client
+namespace Enhanced.Whip.Client
 {
     public class Util
     {

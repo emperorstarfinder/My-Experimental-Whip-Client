@@ -4,7 +4,7 @@ using System.Text;
 using System.Net.Sockets;
 using System.IO;
 
-namespace Whip.Client
+namespace Enhanced.Whip.Client
 {
     public class AuthChallenge
     {
