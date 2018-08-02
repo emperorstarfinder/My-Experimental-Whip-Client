@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Whip.Client</id>
+    <version>$version$</version>
+    <title>WHIP Client for .NET</title>
+    <authors>David Daeschler</authors>
+    <owners>David Daeschler, Ricky Curtice</owners>
+    <licenseUrl>https://opensource.org/licenses/Apache-2.0</licenseUrl>
+    <projectUrl>https://github.com/emperorstarfinder/My-Experimental-Whip-Client.git</projectUrl>
+    <description>Client library to access the WHIP asset server from .NET</description>
+    <copyright>Copyright 2018</copyright>
+    <tags>Halcyon WHIP</tags>
+  </metadata>
+</package>
